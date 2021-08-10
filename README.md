@@ -5,5 +5,5 @@
 There are a number of set up requirements that needs to be met before you can run this application, please use this link to get started:
 <a href="https://project-hn.000webhostapp.com/article/13" >Creating an Android application using YouTube API</a>
 
-Visit my website for more awesome tutorials at <a href="https://project-hn.000webhostapp.com/article" >Project HN</a>
+Visit my website for more awesome tutorials at <a href="https://project-hn.000webhostapp.com/articles" >Project HN</a>
 
